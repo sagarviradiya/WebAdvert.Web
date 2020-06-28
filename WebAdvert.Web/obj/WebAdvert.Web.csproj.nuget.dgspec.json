@@ -43,6 +43,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.111.19, )"
+            },
             "Amazon.AspNetCore.Identity.Cognito": {
               "target": "Package",
               "version": "[1.0.4, )"

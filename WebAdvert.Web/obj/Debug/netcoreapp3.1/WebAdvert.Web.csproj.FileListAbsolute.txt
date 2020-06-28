@@ -119,8 +119,10 @@ E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.C
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\WebAdvert.Web.csproj.CoreCompileInputs.cache
-E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\WebAdvert.Web.MvcApplicationPartsAssemblyInfo.cache
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Signup.cshtml.g.cs
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Confirm.cshtml.g.cs
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Login.cshtml.g.cs
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\WebAdvert.Web.csproj.CoreCompileInputs.cache
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\WebAdvert.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\AdvertManagement\Create.cshtml.g.cs

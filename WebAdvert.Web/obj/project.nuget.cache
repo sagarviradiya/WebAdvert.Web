@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/x0kiR2nDbko4nltqZ1Hha2OzMC3H2mYeBWeev0hnTEfjjPS7ZURd+ApYq9KFbVKkUTBlISkpOyfm7rDQUBjhQ==",
+  "dgSpecHash": "Q3ENeI1HCZWR/jAh888n4qMVV1vNQvR8WI5qzAo6pdAr9yuVuBpWogauYv+2oEKwbj1P9NfnxtT0x+E44f0wnA==",
   "success": true,
   "projectFilePath": "E:\\Sagar\\Demo\\WebAdvert.Web\\WebAdvert.Web\\WebAdvert.Web.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,9 @@
     "C:\\Users\\sviradiya\\.nuget\\packages\\amazon.extensions.cognitoauthentication\\1.0.3\\amazon.extensions.cognitoauthentication.1.0.3.nupkg.sha512",
     "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.cognitoidentity\\3.3.100\\awssdk.cognitoidentity.3.3.100.nupkg.sha512",
     "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.cognitoidentityprovider\\3.3.100\\awssdk.cognitoidentityprovider.3.3.100.nupkg.sha512",
-    "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.core\\3.3.100\\awssdk.core.3.3.100.nupkg.sha512",
+    "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.core\\3.3.107.18\\awssdk.core.3.3.107.18.nupkg.sha512",
     "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.100.1\\awssdk.extensions.netcore.setup.3.3.100.1.nupkg.sha512",
+    "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.s3\\3.3.111.19\\awssdk.s3.3.3.111.19.nupkg.sha512",
     "C:\\Users\\sviradiya\\.nuget\\packages\\awssdk.securitytoken\\3.3.100\\awssdk.securitytoken.3.3.100.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

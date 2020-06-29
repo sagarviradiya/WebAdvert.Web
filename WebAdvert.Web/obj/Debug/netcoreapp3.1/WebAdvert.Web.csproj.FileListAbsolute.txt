@@ -123,6 +123,15 @@ E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\Ac
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Confirm.cshtml.g.cs
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Login.cshtml.g.cs
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
-E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\WebAdvert.Web.csproj.CoreCompileInputs.cache
-E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\WebAdvert.Web.MvcApplicationPartsAssemblyInfo.cache
 E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\obj\Debug\netcoreapp3.1\Razor\Views\AdvertManagement\Create.cshtml.g.cs
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\WebAdvert.Models.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Sagar\Demo\WebAdvert.Web\WebAdvert.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll

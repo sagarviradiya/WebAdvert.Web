@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.IO;
 using System.Threading.Tasks;
 using WebAdvert.Web.Models.AdvertManagement;
+using WebAdvert.Web.ServiceClients;
 using WebAdvert.Web.Services;
 
 namespace WebAdvert.Web.Controllers
@@ -11,10 +13,17 @@ namespace WebAdvert.Web.Controllers
     public class AdvertManagementController : Controller
     {
         private readonly IFileUploader _fileUploader;
+        private readonly IMapper _mapper;
+        private readonly IAdvertApiClient _advertApiClient;
 
-        public AdvertManagementController(IFileUploader fileUploader)
+
+
+        public AdvertManagementController(IFileUploader fileUploader, IMapper mapper, IAdvertApiClient advertApiClient)
         {
             _fileUploader = fileUploader;
+            _mapper = mapper;
+            _advertApiClient = advertApiClient;
+
         }
 
         public IActionResult Create(CreateAdvertViewModel model)
@@ -27,11 +36,12 @@ namespace WebAdvert.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                //var createAdvertModel = _mapper.Map<CreateAdvertModel>(model);
-                //createAdvertModel.UserName = User.Identity.Name;
+                var createAdvertModel = _mapper.Map<CreateAdvertModel>(model);
+                createAdvertModel.UserName = User.Identity.Name;
 
-                //var apiCallResponse = await _advertApiClient.CreateAsync(createAdvertModel).ConfigureAwait(false);
-                var id = "11111";// apiCallResponse.Id;
+                var apiCallResponse = await _advertApiClient.Create(createAdvertModel).ConfigureAwait(false);
+                var id = apiCallResponse.Id;
+
                 string fileName = string.Empty;
                 bool isOkToConfirmAd = true;
                 string filePath = string.Empty;
